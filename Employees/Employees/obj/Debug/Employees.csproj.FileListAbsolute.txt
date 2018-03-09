@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\Admin\Documents\GitHub\Inheritance\Inheritance\Employees\Employees\obj\Debug\Employees.pdb
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\Admin\Documents\GitHub\Polymorphism\Employees\Employees\obj\Debug\Employees.pdb
