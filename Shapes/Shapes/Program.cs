@@ -19,6 +19,12 @@ namespace Shapes
                 s.Draw();
 
             }
+            //Вызывается метод из класса Three
+            ThreeDCitle O = new ThreeDCitle();
+            O.Draw();
+            //Вызываетсяметод из базового класса
+            ( (Circle) O).Draw();
+
             Console.ReadLine();
 
         }
