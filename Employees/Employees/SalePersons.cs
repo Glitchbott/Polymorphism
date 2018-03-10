@@ -9,7 +9,7 @@ namespace Employees
     class SalePersons : Employee
 
     {
-        public override void GiveBonus(float amount)
+        public sealed override void GiveBonus(float amount)
         {
             int saleBonus = 0;
             if (SaleNumber >= 0 && SaleNumber <= 100)
