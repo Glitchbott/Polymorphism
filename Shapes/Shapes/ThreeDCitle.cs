@@ -8,7 +8,9 @@ namespace Shapes
 {
     class ThreeDCitle : Circle
     {
-        protected string shapeName;
+        // Скрыть поле
+        protected  new string shapeName;
+        //Скрыть реализацию
         public new void Draw()
         {
             Console.WriteLine("Drawing a 3D Circle");

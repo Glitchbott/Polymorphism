@@ -47,6 +47,7 @@
     <Compile Include="Employee.Internal.cs" />
     <Compile Include="Manager.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Program1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PTSalePersons.cs" />
     <Compile Include="SalePersons.cs" />
