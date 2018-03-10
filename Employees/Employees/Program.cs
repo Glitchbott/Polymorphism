@@ -21,13 +21,13 @@ namespace Employees
             Console.WriteLine("I sale {0}", Fred.SaleNumber);
             Console.WriteLine();
             // (string fullName, int age, int empID, float currPay,string ssn, int numbofopts);
-            Manager chuck = new Manager("Chuck", 50, 90, 10000,"", 9000);
+            Manager chuck = new Manager("Chuck", 50, 90, 10000,"333-23-2322", 9000);
             chuck.GiveBonus(300);
             chuck.DisplayStats();
             Console.WriteLine();
 
-            SalePersons Fran = new SalePersons("Fran", 43, 93, 3000, "", 31);
-            Fran.GiveBonus(300);
+            SalePersons Fran = new SalePersons("Fran", 43, 93, 3000, "932-32-3232", 31);
+            Fran.GiveBonus(200);
             Fran.DisplayStats();
 
 

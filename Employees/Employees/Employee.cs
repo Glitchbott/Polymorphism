@@ -23,10 +23,11 @@ namespace Employees
       }
       
         // метод
-        public void GiveBonus(float amount)
+        public virtual void GiveBonus(float amount)
         {
             Pay += amount;
         }
+        
         public string Name
         {
             get { return empName; }
@@ -62,15 +63,15 @@ namespace Employees
                 get { return empAge; }
                 set { empAge = value; }
         }
-        public void DisplayStats()
+        public virtual void DisplayStats()
         {
           Console.WriteLine("Name : {0} ", empName);
           Console.WriteLine("ID : {0} ", empID);
           Console.WriteLine("Pay : {0} ", currPay);
           Console.WriteLine("Age : {0} ", empAge);
           Console.WriteLine("SSN : {0} ", empAge);
+          Console.WriteLine("Give Bonus : {0} ", Pay); 
 
-            
         }
     }
 }
