@@ -23,6 +23,16 @@ namespace Employees
                 //Повысить зарплату
                 // Представить место на парковке
                 Console.WriteLine("{0} was promoted", emp.Name);
+                if (emp is SalePersons)
+                {
+                    Console.WriteLine("{0} made {1} sales!", emp.Name,((SalePersons)emp).SaleNumber);
+                    Console.WriteLine();
+                }
+                if (emp  is Manager)
+                {
+                    Console.WriteLine("{0} had {1} stock options!", emp.Name, ((Manager)emp).StockOptions);
+                    Console.WriteLine();
+                }
             }
            
         }

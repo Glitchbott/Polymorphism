@@ -25,6 +25,10 @@ namespace Shapes
             //Вызываетсяметод из базового класса
             ( (Circle) O).Draw();
 
+            Hexagon Frank = new Hexagon();
+            Hexagon hex2 = Frank as Hexagon;
+            if (hex2 == null)
+            Console.WriteLine("Sorry Frank is not a Hexagon",Frank);
             Console.ReadLine();
 
         }

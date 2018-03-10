@@ -29,6 +29,7 @@ namespace Employees
             SalePersons Fran = new SalePersons("Fran", 43, 93, 3000, "932-32-3232", 31);
             Fran.GiveBonus(200);
             Fran.DisplayStats();
+           
 
 
             double cost = chuck.GetBenefitCost();
