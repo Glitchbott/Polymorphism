@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Admin\Documents\GitHub\Polymorphism\Shapes\Shapes\obj\Debug\Shapes.pdb

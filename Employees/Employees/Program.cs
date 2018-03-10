@@ -31,7 +31,6 @@ namespace Employees
             Fran.DisplayStats();
 
 
-
             double cost = chuck.GetBenefitCost();
             Employees.BenefitPackage.BenefitPackageLevel myBenefitPackageLevel = 
             Employees.BenefitPackage.BenefitPackageLevel.Platinum;
