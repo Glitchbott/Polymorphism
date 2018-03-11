@@ -10,6 +10,7 @@ namespace ObjectOverrides
     {
         static void Main(string[] args)
         {
+           
             Console.WriteLine("*** Fun with System.Object***\n");
             Person p1 = new Person();
             // У наследованные члены System
@@ -25,7 +26,7 @@ namespace ObjectOverrides
                 Console.WriteLine("Same instance!");
                 Console.ReadLine();
             }
-           
+            
 
         }
     }
