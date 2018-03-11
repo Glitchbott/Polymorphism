@@ -26,5 +26,24 @@ namespace ObjectOverrides
             myState = string.Format("[First Name: {0}; Last Name: {1}; Age: {2}]", FirsName, LastName, Age);
             return myState;
         }
+        public override bool Equals(object obj)
+        {
+            if(obj is Person && obj != null)
+            {
+                Person temp;
+                temp = (Person)obj;
+                if(temp.FirsName == this.FirsName && 
+                   temp.LastName == this.LastName && 
+                   temp.Age == this.Age)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            return false;
+        }
     }
 }
