@@ -11,7 +11,13 @@ namespace ObjectOverrides
         public string FirsName { get; set; }
         public string LastName { get; set; }
         public int Age { get; set; }
+        public string SSN { get; set; }
 
+        public override int GetHashCode()
+        {
+            //Вернуть хеш-код на основе уникальных строковых данных
+            return this.ToString().GetHashCode();
+        }
         public Person(string fName, string lName, int personAge)
         {
             FirsName = fName;
